@@ -9,3 +9,8 @@
 2.> turn on your local server
 3.> Enjoy the program
 </pre>
+
+# Attention
+<pre>
+[!] This program only work on xampp (by Default settings)
+</pre>
