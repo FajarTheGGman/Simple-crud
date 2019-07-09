@@ -1,8 +1,6 @@
 # Simple-crud
 #just a simple data management / crud or whatever i dont fucking care, created in php
 
-![testing(https://google.com)]
-
 ![alt-text](https://github.com/FajarTheGGman/Simple-crud/blob/master/.%2C/w.png)
 
 # How it works ?
