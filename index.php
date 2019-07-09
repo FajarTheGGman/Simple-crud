@@ -1,4 +1,6 @@
 <?php
+// Copyright© 2019 By Fajar Firdaus
+// Please Don't recode my program because i take a long time to complete this project
 $db = mysqli_connect("localhost", "root", "");
 $db1 = mysqli_connect("localhost", "root", "", "project");
 $tb = mysqli_query($db1, "SELECT * FROM crud");
