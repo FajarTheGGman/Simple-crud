@@ -14,3 +14,6 @@
 <pre>
 [!] This program only work on xampp (by Default settings)
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
